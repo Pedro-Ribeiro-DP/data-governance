@@ -14,8 +14,6 @@ Uma organização de médio porte, atuante no setor de serviços, enfrenta probl
 - Baixa conscientização dos colaboradores quanto à proteção de informações.
 - Risco de não conformidade com a **Lei Geral de Proteção de Dados (LGPD)**.
 
-O projeto propõe uma análise crítica da situação, com recomendações práticas para a implementação de um programa de Governança de Dados.
-
 ---
 
 ## 🚀 Objetivos do Projeto
@@ -27,35 +25,11 @@ O projeto propõe uma análise crítica da situação, com recomendações prát
 
 ---
 
-## 🛠️ Tecnologias e Práticas Envolvidas
+## 📂 Documentos
 
-- Mapeamento de Fluxo de Dados
-- Classificação da Informação
-- Controle de Acessos e Criptografia
-- Análise de Riscos e Impactos
-- Implementação de Políticas de Dados
-- Compliance com a LGPD e normas internacionais (ex: ISO/IEC 27001)
-
----
-
-## 📂 Estrutura do Projeto
-
-governanca-dados-caso-pratico/
-├── docs/
-│   ├── analise_situacao.md
-│   ├── plano_acao_governanca.md
-│   └── matriz_riscos_controles.md
-├── README.md
-
-
-
----
-
-## 📚 Referências
-
-- Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 — LGPD)
-- ISO/IEC 27001: Sistemas de Gestão da Segurança da Informação
-- DAMA-DMBOK2: Guia de Conhecimento em Gerenciamento de Dados
+- [Análise da Situação](docs/analise_situacao.md)
+- [Plano de Ação de Governança de Dados](docs/plano_acao_governanca.md)
+- [Matriz de Riscos e Controles](docs/matriz_riscos_controles.md)
 
 ---
 
@@ -64,11 +38,3 @@ governanca-dados-caso-pratico/
 Este projeto é disponibilizado para fins educacionais e acadêmicos.
 
 ---
-
-## ✉️ Contato
-
-Em caso de dúvidas, sugestões ou interesse em parcerias:  
-**[Seu Nome]** — [seuemail@exemplo.com] — [LinkedIn/Instagram/Portfólio]
-
----
-
