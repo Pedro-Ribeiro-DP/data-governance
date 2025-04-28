@@ -27,9 +27,9 @@ Uma organização de médio porte, atuante no setor de serviços, enfrenta probl
 
 ## 📂 Documentos
 
-- [`docs/analise_situacao.md`](data-governance/governanca-dados-caso-pratico/docs/analise_situacao.md)
-- [`docs/plano_acao_governanca.md`](data-governance/governanca-dados-caso-pratico/docs/plano_acao_governanca.md)
-- [`docs/matriz_riscos_controles.md`](data-governance/governanca-dados-caso-pratico/docs/matriz_riscos_controles.md)
+- [`docs/analise_situacao.md`](governanca-dados-caso-pratico/docs/analise_situacao.md)
+- [`docs/plano_acao_governanca.md`](governanca-dados-caso-pratico/docs/plano_acao_governanca.md)
+- [`docs/matriz_riscos_controles.md`](governanca-dados-caso-pratico/docs/matriz_riscos_controles.md)
 
 
 ---
