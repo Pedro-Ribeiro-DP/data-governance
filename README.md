@@ -40,7 +40,14 @@ O projeto propõe uma análise crítica da situação, com recomendações prát
 
 ## 📂 Estrutura do Projeto
 
-governanca-dados-caso/ ├── docs/ │ └── analise_situacao.pdf # Documento de análise do caso e diagnóstico │ └── plano_governanca.pdf # Plano estratégico de Governança de Dados ├── models/ │ └── matriz_riscos.xlsx # Matriz de riscos e controles propostos ├── README.md # Documentação principal do projeto
+governanca-dados-caso-pratico/
+├── docs/
+│   ├── analise_situacao.md
+│   ├── plano_acao_governanca.md
+│   └── matriz_riscos_controles.md
+├── README.md
+
+
 
 ---
 
