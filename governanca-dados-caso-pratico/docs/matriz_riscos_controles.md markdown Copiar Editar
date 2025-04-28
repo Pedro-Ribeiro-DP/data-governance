@@ -1,0 +1,17 @@
+# 📊 Matriz de Riscos e Controles
+
+| Nº | Risco Identificado | Probabilidade | Impacto | Nível de Risco | Controle Proposto | Responsável |
+|:--:|:------------------|:--------------:|:-------:|:--------------:|:------------------|:------------|
+| 1 | Vazamento de dados por acesso não autorizado | Alta | Crítico | Muito Alto | Controle de acesso e monitoramento de logs | Segurança da Informação |
+| 2 | Armazenamento de dados sem criptografia | Alta | Crítico | Muito Alto | Criptografia de bases de dados | Infraestrutura |
+| 3 | Compartilhamento indevido interno | Média | Alto | Alto | Política de classificação + treinamentos | DPO/RH |
+| 4 | Inexistência de resposta a titulares | Média | Alto | Alto | Procedimento padrão de atendimento | DPO/Jurídico |
+| 5 | Perda de dados por falha em backup | Baixa | Crítico | Alto | Política de backup e testes periódicos | TI |
+| 6 | Falha em detectar incidentes de segurança | Média | Crítico | Muito Alto | Sistema de Detecção de Intrusões (IDS) | Segurança da Informação |
+| 7 | Falta de conhecimento dos colaboradores sobre LGPD | Alta | Médio | Alto | Treinamentos periódicos | RH/DPO |
+
+---
+
+## 📅 Periodicidade de Revisão
+
+- Revisão a cada 6 meses ou em caso de incidente relevante.
